@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/medau-website/static/css/main.2e6226a1.css",
-    "main.js": "/medau-website/static/js/main.27664cc4.js",
-    "static/js/787.e226f4a8.chunk.js": "/medau-website/static/js/787.e226f4a8.chunk.js",
-    "static/media/medau-blue.svg": "/medau-website/static/media/medau-blue.feda0a898081af415917c131dadcb55f.svg",
-    "index.html": "/medau-website/index.html",
-    "main.2e6226a1.css.map": "/medau-website/static/css/main.2e6226a1.css.map",
-    "main.27664cc4.js.map": "/medau-website/static/js/main.27664cc4.js.map",
-    "787.e226f4a8.chunk.js.map": "/medau-website/static/js/787.e226f4a8.chunk.js.map"
+    "main.css": "/static/css/main.2e6226a1.css",
+    "main.js": "/static/js/main.013e7e41.js",
+    "static/js/787.e226f4a8.chunk.js": "/static/js/787.e226f4a8.chunk.js",
+    "static/media/medau-blue.svg": "/static/media/medau-blue.feda0a898081af415917c131dadcb55f.svg",
+    "index.html": "/index.html",
+    "main.2e6226a1.css.map": "/static/css/main.2e6226a1.css.map",
+    "main.013e7e41.js.map": "/static/js/main.013e7e41.js.map",
+    "787.e226f4a8.chunk.js.map": "/static/js/787.e226f4a8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e6226a1.css",
-    "static/js/main.27664cc4.js"
+    "static/js/main.013e7e41.js"
   ]
 }
